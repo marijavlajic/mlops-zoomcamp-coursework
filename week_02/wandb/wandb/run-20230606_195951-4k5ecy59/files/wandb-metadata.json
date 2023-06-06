@@ -1,0 +1,49 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-06-06T17:59:51.729130",
+    "startedAt": "2023-06-06T17:59:51.041041",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "mlops-zoomcamp-wandb",
+        "--wandb_entity",
+        "marijavlajic",
+        "--data_artifact",
+        "marijavlajic/mlops-zoomcamp-wandb/NYC-Taxi:v0"
+    ],
+    "state": "running",
+    "program": "/Users/marija/WORK/Courses/mlops_zoomcamp_coursework/week_02/wandb/sweep.py",
+    "codePath": "week_02/wandb/sweep.py",
+    "git": {
+        "remote": "git@github.com:marijavlajic/mlops_zoomcamp_coursework",
+        "commit": "330e86c77be347f64ac85b662e4e030771789cd2"
+    },
+    "email": "marija@vlajic.net",
+    "root": "/Users/marija/WORK/Courses/mlops_zoomcamp_coursework",
+    "host": "Marijas-MBP",
+    "username": "marija",
+    "executable": "/Users/marija/anaconda3/envs/exp-tracking/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "total": 228.27386474609375,
+        "used": 20.746021270751953
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
