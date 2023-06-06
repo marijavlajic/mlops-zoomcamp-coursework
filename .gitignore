@@ -162,3 +162,7 @@ cython_debug/
 # mlflow
 mlartifacts/
 mlruns/
+
+# wandb
+artifacts/
+output/
