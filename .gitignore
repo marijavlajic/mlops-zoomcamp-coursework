@@ -162,6 +162,8 @@ cython_debug/
 # mlflow
 mlartifacts/
 mlruns/
+models/
+mlflow.db
 
 # wandb
 artifacts/
