@@ -1,0 +1,5 @@
+deployments:
+- name: homework_q4
+  entrypoint: homework/orchestrate_q4.py:main_flow_q4
+  work_pool: 
+    name: homeworkpool
